@@ -1,0 +1,24 @@
+{
+    "Categories": [
+        {
+            "id": 1,
+            "name": "Presidency",
+            "candidates": ["Prof Pat Utomi", "Wole Soyinka" , "Muhammad Buhari"]
+        },
+        {
+            "id": 2,            
+            "name": "Secretary",
+            "candidates": ["Prof Pat Utomi", "Wole Soyinka" , "Muhammad Buhari"]
+        },
+        {
+            "id": 3,            
+            "name": "Governor",
+            "candidates": [ "Wole Soyinka" , "Muhammad Buhari"]
+        },
+        {
+            "id": 4,            
+            "name": "Senator",
+            "candidates": ["Prof Pat Utomi", "Wole Soyinka" , "Muhammad Buhari"]
+        }
+    ]
+}
